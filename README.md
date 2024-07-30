@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dave, an IT Technician with eServices Wolverhampton.
 - 👀 I’m interested in using technology to aid in teaching and learning.
-- 📖 I’m currently reading Annihilation by Jeff VanderMeer.
+- 📖 I’m currently reading Dracula (again) by Bram Stoker.
 - 📫 You can reach me on the socials using [Mastodon](https://mas.to/@cloudw_davet) or [Twitter](https://twitter.com/cloudW_Dave).
